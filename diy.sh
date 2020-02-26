@@ -11,6 +11,6 @@
 #git clone https://github.com/jerrykuku/lua-maxminddb package/lua-maxminddb
 #git clone https://github.com/jerrykuku/luci-app-vssr package/luci-app-vssr
 #git clone https://github.com/Lienol/openwrt-package package/openwrt-package
-git clone https://github.com/Lienol/openwrt-package.git package/luci-theme-argon-dark-mod
+#git clone https://github.com/Lienol/openwrt-package.git package/luci-theme-argon-dark-mod
 ./scripts/feeds update -a
 ./scripts/feeds install -a
